@@ -2,10 +2,44 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Consider the following PLC Ladder rung <br><img src=\"images/SE/1.gif\"\height=\"150\" width=\"400\"/><br>For the following input status file bit condition shown below<br><img src=\"images/SE/1a.gif\"\height=\"100\" width=\"400\"/><br>The output O1",
+      "question": "In a tank or channel, notch is provided to measure",
       "answers": {
-        "a": "Will be energized",
-        "b": "Will not be energized"
+        "a": "Velocity",
+        "b": "Pressure",
+        "c": "Discharge",
+        "d": "Static energy"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "Most economical section of a triangular channel is",
+      "answers": {
+        "a": "Isosceles triangle with 45<sup>o</sup> vertex angle",
+        "b": "Equilateral triangle",
+        "c": "Right angled triangle with equal sides",
+        "d": "Right angled triangle"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "The sheet of liquid flowing over a notch is known as nappe. (True or false)",
+      "answers": {
+        "a": "False",
+        "b": "True"
       },
       "explanations": {
         "a": "",
@@ -15,94 +49,37 @@
       "difficulty": ""
     },
     {
-      "question": "Consider the following PLC Ladder rung <br><img src=\"images/SE/2.gif\"\height=\"150\" width=\"400\"/><br>For the following input status file bit condition shown below<br><img src=\"images/SE/2a.gif\"\height=\"100\" width=\"400\"/><br>The output O1",
+      "question": "A submerged weir is one in which the water level on the downstream of the weir is",
       "answers": {
-        "a": "Will be energized",
-        "b": "Will not be energized"
+        "a": "Slightly above the crest level",
+        "b": "Below the crest level",
+        "c": "Just at the crest level",
+        "d": "At the same elevation as the upstream water surface"
       },
       "explanations": {
         "a": "",
-        "b": ""
-      },
-      "correctAnswer": "b",
-      "difficulty": ""
-    },
-    {
-      "question": "Consider the following PLC Ladder rung <br><img src=\"images/SE/3.gif\"\height=\"150\" width=\"400\"/><br>For the following input status file bit condition shown below<br><img src=\"images/SE/3a.gif\"\height=\"100\" width=\"400\"/><br>The output O1",
-      "answers": {
-        "a": "Will be energized",
-        "b": "Will not be energized"
-      },
-      "explanations": {
-        "a": "",
-        "b": ""
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "a",
       "difficulty": ""
     },
     {
-      "question": "Consider the following PLC Ladder rung <br><img src=\"images/SE/4.gif\"\height=\"150\" width=\"400\"/><br>For the following input status file bit condition shown below<br><img src=\"images/SE/4a.gif\"\height=\"100\" width=\"400\"/><br>The output O1",
+      "question": "The ratio of the percentage error in the discharge and percentage error in the measurement of head over a triangular notch, is",
       "answers": {
-        "a": "Will be energized",
-        "b": "Will not be energized"
+        "a": "2/5",
+        "b": "3/2",
+        "c": "2/3",
+        "d": "5/2"
       },
       "explanations": {
         "a": "",
-        "b": ""
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      "correctAnswer": "a",
-      "difficulty": ""
-    },
-    {
-      "question": "Consider the following PLC Ladder rung <br><img src=\"images/SE/5.gif\"\height=\"150\" width=\"400\"/><br>For the following input status file bit condition shown below<br><img src=\"images/SE/5a.gif\"\height=\"100\" width=\"400\"/><br>The output O1",
-      "answers": {
-        "a": "Will not be energized",
-        "b": "Will be energized"
-      },
-      "explanations": {
-        "a": "",
-        "b": ""
-      },
-      "correctAnswer": "b",
-      "difficulty": ""
-    },
-    {
-      "question": "Consider the following PLC Ladder rung <br><img src=\"images/SE/6.gif\"\height=\"150\" width=\"400\"/><br>For the following input status file bit condition shown below<br><img src=\"images/SE/6a.gif\"\height=\"100\" width=\"400\"/><br>The output O1",
-      "answers": {
-        "a": "Will not be energized",
-        "b": "Will be energized"
-      },
-      "explanations": {
-        "a": "",
-        "b": ""
-      },
-      "correctAnswer": "a",
-      "difficulty": ""
-    },
-    {
-      "question": "Consider the following PLC Ladder rung <br><img src=\"images/SE/7.gif\"\height=\"150\" width=\"400\"/><br>For the following input status file bit condition shown below<br><img src=\"images/SE/7a.gif\"\height=\"100\" width=\"400\"/><br>The output O1",
-      "answers": {
-        "a": "Will be energized",
-        "b": "Will not be energized"
-      },
-      "explanations": {
-        "a": "",
-        "b": ""
-      },
-      "correctAnswer": "a",
-      "difficulty": ""
-    },
-    {
-      "question": "Consider the following PLC Ladder rung <br><img src=\"images/SE/8.gif\"\height=\"150\" width=\"400\"/><br>For the following input status file bit condition shown below<br><img src=\"images/SE/8a.gif\"\height=\"100\" width=\"400\"/><br>The output O1",
-      "answers": {
-        "a": "Will be energized",
-        "b": "Will not be energized"
-      },
-      "explanations": {
-        "a": "",
-        "b": ""
-      },
-      "correctAnswer": "b",
+      "correctAnswer": "d",
       "difficulty": ""
     }
   ]
