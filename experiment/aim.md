@@ -1,1 +1,1 @@
-### Aim of the experiment
+To implement basic logic gate function using PLC.
